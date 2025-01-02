@@ -1,0 +1,33 @@
+{
+  "name": "stable-diffusion-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "stable-diffusion",
+    "es",
+    "image",
+    "stable-diffusion-ts",
+    "stable-diffusion-typescript",
+    "ts",
+    "typescript"
+  ],
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bisher-Al-Masri/stable-diffusion-ts.git"
+  },
+  "author": "Bisher Al Masri",
+  "license": "CC BY-NC 4.0",
+  "dependencies": {
+    "axios": "^1.7.9"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
